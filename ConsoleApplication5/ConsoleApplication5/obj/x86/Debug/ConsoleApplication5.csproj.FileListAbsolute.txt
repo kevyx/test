@@ -1,0 +1,7 @@
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\Data.txt
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\Newtonsoft.Json.dll
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+E:\git\test\test\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb

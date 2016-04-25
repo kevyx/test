@@ -1,0 +1,154 @@
+﻿{
+    "pathAndFileBean": [
+        {
+            "url": ".",
+            "file": false,
+            "modifyTime": 1461495625000
+        },
+        {
+            "url": "..",
+            "file": false,
+            "modifyTime": 1459151778000
+        },
+        {
+            "url": "Test.txt.txt",
+            "file": true,
+            "modifyTime": 1458311340000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160329.txt",
+            "file": true,
+            "modifyTime": 1459510329000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160330.txt",
+            "file": true,
+            "modifyTime": 1459510341000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160331.txt",
+            "file": true,
+            "modifyTime": 1459510352000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160328.txt",
+            "file": true,
+            "modifyTime": 1459510319000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160401.txt",
+            "file": true,
+            "modifyTime": 1459510362000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160402.txt",
+            "file": true,
+            "modifyTime": 1459772346000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160403.txt",
+            "file": true,
+            "modifyTime": 1459772382000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160404.txt",
+            "file": true,
+            "modifyTime": 1459773256000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160405.txt",
+            "file": true,
+            "modifyTime": 1459847971000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160406.txt",
+            "file": true,
+            "modifyTime": 1459930508000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160407.csv",
+            "file": true,
+            "modifyTime": 1460019605000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160408.csv",
+            "file": true,
+            "modifyTime": 1460105487000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160409.csv",
+            "file": true,
+            "modifyTime": 1460194169000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160410.csv",
+            "file": true,
+            "modifyTime": 1460286048000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160411.csv",
+            "file": true,
+            "modifyTime": 1460372446000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160412.csv",
+            "file": true,
+            "modifyTime": 1460453105000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160413.csv",
+            "file": true,
+            "modifyTime": 1460537002000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160414.csv",
+            "file": true,
+            "modifyTime": 1460622178000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160415.csv",
+            "file": true,
+            "modifyTime": 1460707952000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160416.csv",
+            "file": true,
+            "modifyTime": 1460795403000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160417.csv",
+            "file": true,
+            "modifyTime": 1460890833000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160418.csv",
+            "file": true,
+            "modifyTime": 1460977233000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160419.csv",
+            "file": true,
+            "modifyTime": 1461062747000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160420.csv",
+            "file": true,
+            "modifyTime": 1461139305000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160421.csv",
+            "file": true,
+            "modifyTime": 1461296020000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160422.csv",
+            "file": true,
+            "modifyTime": 1461379834000
+        },
+        {
+            "url": "ctriphotel_dailytransactions_20160424.csv",
+            "file": true,
+            "modifyTime": 1461552155000
+        }
+    ]
+}

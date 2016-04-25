@@ -34,8 +34,10 @@ namespace ConsoleApplication5
         [JsonProperty(PropertyName = "file")]
         public bool file { get; set; }
 
-        //[JsonProperty(PropertyName = "modifyTime")]
-        //public DateTime UpdateTime { get; set; }
+        [JsonProperty(PropertyName = "modifyTime")]
+        public long ModifyTime { get; set; }
+
+        public DateTime UpdateTime { get { return DateTime.Parse("1970-01-01").AddMilliseconds(this.ModifyTime); } }
     }
 
     public class FilePathCollection
